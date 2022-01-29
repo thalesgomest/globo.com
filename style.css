@@ -1,0 +1,270 @@
+body {
+  margin: 0 auto;
+  font-family: "Encode Sans", sans-serif;
+  /* background-color: aqua; */
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+.pagecontent {
+  width: 1250px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.page {
+  width: 1250px;
+  margin: 0 auto;
+}
+
+.leftnews {
+  width: 625px;
+  margin-top: 50px;
+  padding-right: 40px;
+}
+
+.rightnews {
+  width: 625px;
+  margin-top: 50px;
+  padding-left: 45px;
+  border-left: 1px solid #EBEDEF;
+  display: flex;
+ 
+}
+
+.topbar {
+  height: 80px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__topbar__img {
+  width: 171px;
+}
+
+.header__navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  /* background-color: yellow; */
+  border-bottom: 1px solid #f5f6f7;
+  border-top: 1px solid #f5f6f7;
+  border-width: 100%;
+}
+
+.header__navbar__items {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.color_g1 {
+  color: #c3170c;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.color_oglobo {
+  color: #1e4b9b;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.color_valor {
+  color: #006766;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.color_ge {
+  color: #07aa47;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.color_cartola {
+  color: #e3662b;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.color_globoplay {
+  color: #fb0735;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.color_dropz {
+  color: #ff75bb;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.color_gshow {
+  color: #ec7d00;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.color_quem {
+  color: #323333;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+.color_receitas {
+  color: #a81d83;
+  font-weight: bolder;
+  text-decoration: solid;
+}
+
+.leftnews__materiaprincipal_h1 {
+  font-size: 52px;
+  font-weight: bold;
+  color: #c4160c;
+  text-decoration: solid;
+  margin-top: 50px;
+}
+
+.leftnews__materiasecundaria {
+  margin-top: 40px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #EBEDEF;
+}
+
+.leftnews__materiasecundaria_h2 {
+  padding: 5px;
+  font-size: 18px;
+  color: #303134;
+  text-decoration: none;
+}
+
+.leftnews_imgs_box {
+  display: flex;
+  width: 625px;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.leftnews_imgs {
+  border-radius: 12px;
+  width: 193px;
+  height: 110px;
+}
+
+.leftnews_txt_box {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 30px;
+  padding-top: 5px;
+  border-bottom: 1px solid #EBEDEF;
+}
+
+.leftnews_txt_box2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.leftnews_txt_alem-do-presidente {
+  width: 193px;
+}
+
+.leftnews_txt_crimes-na-fronteira {
+  width: 193px;
+}
+
+.leftnews_txt_reino-unido {
+  width: 193px;
+}
+
+.leftnews_imgs_first_txt {
+  font-size: 14px;
+  font-weight: bold;
+  color: #c4170c;
+  text-decoration: none;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.leftnews_imgs_second_txt {
+  font-weight: bold;
+  font-size: 20px;
+  color: #2f3134;
+  margin-bottom: 10px;
+}
+
+.leftnews_imgs_third_txt {
+  font-size: 14px;
+  color: #303134
+}
+
+.leftnews_txt_box2_first {
+  width: 193px;
+}
+
+.leftnews_txt_box2_second {
+  width: 193px;
+}
+
+.leftnews_txt_box2_third {
+  width: 193px;
+}
+
+.rightnews_imgs {
+  border-radius: 12px;
+  width: 240px;
+  height: 128px;
+}
+
+.rightnews_imgs_first_txt_green {
+  font-size: 14px;
+  font-weight: bold;
+  color: #16ae54;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.rightnews_imgs_second_txt {
+  font-weight: bold;
+  font-size: 20px;
+  color: #2f3134;
+  margin-bottom: 15px;
+}
+
+.rightnews_imgs_third_txt {
+  font-size: 14px;
+  margin-bottom: 20px;
+  color: #303134
+}
+
+.rightnews__green-notice {
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  padding-right: 35px;
+  border-right: 1px solid #EBEDEF;
+}
+}
+
+.gree-notice__campeonato-frances img {
+  margin-top: 30px;
+}
+
+.rightnews__orange-notice {
+  margin-left: 35px;
+ 
+ 
+}
+
+.rightnews_imgs_first_txt_orange {
+  font-size: 14px;
+  color: #EC8006;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.orange-notice__ferias-e-jh h2 {
+  margin-bottom: 30px;
+}
+
