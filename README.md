@@ -31,7 +31,7 @@
 
 * **GENERAL**
     - [x] Use an **Encode Sans** font on the page. 
-    - [x] All news must be links. It is not necessary to link to the real pages, it could be a fake link (like `https://globo.com`)
+    - [x] All news must be links. It is not necessary to link to the real pages, it could be a fake link.
 
 * **BONUS**
     - [x] Apply responsive design using media query
