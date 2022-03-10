@@ -33,7 +33,7 @@
     - [x] All news must be links. It is not necessary to link to the real pages, it could be a fake link.
 
 * **BONUS**
-    - [x] Apply responsive design using media query
+    - [ ] Apply responsive design using media query
 
 ### Author
 ---
