@@ -27,7 +27,6 @@
 
 * **LAYOUT**
     - [x] Apply the pre-defined layout;
-    - [x] Apply responsive design using media query
 
 * **GENERAL**
     - [x] Use an **Encode Sans** font on the page. 
