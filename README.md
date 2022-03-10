@@ -18,7 +18,7 @@
 
 
 ## Project Description
-<p align="justify">My first front-end project submitted to the Driven Education bootcamp consisted of applying the layout of a simplified version of the <a href="https://www.globo.com">Globo.com</a>, using HTML and CSS. The goal was to make my page as similar as possible to the layout provided!</p>
+<p align="justify">My first front-end project submitted to Driven Education bootcamp consisted of applying the layout of a simplified version of the <a href="https://www.globo.com">Globo.com</a>, using HTML and CSS. The goal was to make my page as similar as possible to the layout provided!</p>
 
 ### Status
 ![status-finished](https://user-images.githubusercontent.com/97575616/152926720-d042178b-24c0-4d6b-94fb-0ccbd3c082cc.svg)
